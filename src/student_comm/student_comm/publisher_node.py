@@ -2,8 +2,8 @@ import rclpy
 from rclpy.node import Node
 from student_info_interfaces.msg import StudentInfo
 class StudentInfoPublisher(Node):
-    X="xttbwm"
-    Y="665710086"
+    X="张岩霖"
+    Y="2026112620"
     def  __init__(self):
         super().__init__("student_info_publisher")
         self.publisher_=self.create_publisher(StudentInfo,"student_info",10)
