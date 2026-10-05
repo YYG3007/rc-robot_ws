@@ -1,104 +1,264 @@
-[INFO] [1791101451.150604625] [student_info_publisher]: 0.5s once
-[INFO] [1791101451.646888304] [student_info_publisher]: 1,10086,zzz
-[INFO] [1791101452.146818869] [student_info_publisher]: 2,10086,zzz
-[INFO] [1791101452.646803345] [student_info_publisher]: 3,10086,zzz
-[INFO] [1791101453.146820820] [student_info_publisher]: 4,10086,zzz
-[INFO] [1791101453.646734567] [student_info_publisher]: 5,10086,zzz
-[INFO] [1791101454.146888007] [student_info_publisher]: 6,10086,zzz
-[INFO] [1791101454.646736680] [student_info_publisher]: 7,10086,zzz
-[INFO] [1791101455.146679990] [student_info_publisher]: 8,10086,zzz
-[INFO] [1791101455.646697977] [student_info_publisher]: 9,10086,zzz
-[INFO] [1791101456.146701194] [student_info_publisher]: 10,10086,zzz
-[INFO] [1791101456.646750343] [student_info_publisher]: 11,10086,zzz
-[INFO] [1791101457.146807057] [student_info_publisher]: 12,10086,zzz
-[INFO] [1791101457.646780404] [student_info_publisher]: 13,10086,zzz
-[INFO] [1791101458.146805385] [student_info_publisher]: 14,10086,zzz
-[INFO] [1791101458.646805498] [student_info_publisher]: 15,10086,zzz
-[INFO] [1791101459.146815133] [student_info_publisher]: 16,10086,zzz
-[INFO] [1791101459.646805422] [student_info_publisher]: 17,10086,zzz
-[INFO] [1791101460.146869997] [student_info_publisher]: 18,10086,zzz
-[INFO] [1791101460.646766329] [student_info_publisher]: 19,10086,zzz
-[INFO] [1791101461.146871825] [student_info_publisher]: 20,10086,zzz
-[INFO] [1791101461.646743190] [student_info_publisher]: 21,10086,zzz
-[INFO] [1791101462.146755640] [student_info_publisher]: 22,10086,zzz
-[INFO] [1791101462.646717788] [student_info_publisher]: 23,10086,zzz
-[INFO] [1791101463.146723641] [student_info_publisher]: 24,10086,zzz
-[INFO] [1791101463.646720602] [student_info_publisher]: 25,10086,zzz
-[INFO] [1791101464.146812874] [student_info_publisher]: 26,10086,zzz
-[INFO] [1791101464.646845143] [student_info_publisher]: 27,10086,zzz
-[INFO] [1791101465.146777875] [student_info_publisher]: 28,10086,zzz
-[INFO] [1791101465.646755466] [student_info_publisher]: 29,10086,zzz
-[INFO] [1791101466.146780283] [student_info_publisher]: 30,10086,zzz
-[INFO] [1791101466.646824637] [student_info_publisher]: 31,10086,zzz
-[INFO] [1791101467.146851319] [student_info_publisher]: 32,10086,zzz
-[INFO] [1791101467.646794992] [student_info_publisher]: 33,10086,zzz
-[INFO] [1791101468.146889780] [student_info_publisher]: 34,10086,zzz
-[INFO] [1791101468.646937435] [student_info_publisher]: 35,10086,zzz
-[INFO] [1791101469.146762810] [student_info_publisher]: 36,10086,zzz
-[INFO] [1791101469.646801900] [student_info_publisher]: 37,10086,zzz
-[INFO] [1791101470.146866012] [student_info_publisher]: 38,10086,zzz
-[INFO] [1791101470.646925563] [student_info_publisher]: 39,10086,zzz
-[INFO] [1791101471.146994731] [student_info_publisher]: 40,10086,zzz
-[INFO] [1791101471.646876837] [student_info_publisher]: 41,10086,zzz
-[INFO] [1791101472.146908981] [student_info_publisher]: 42,10086,zzz
-[INFO] [1791101472.646745756] [student_info_publisher]: 43,10086,zzz
-[INFO] [1791101473.146759273] [student_info_publisher]: 44,10086,zzz
-[INFO] [1791101473.646741675] [student_info_publisher]: 45,10086,zzz
-[INFO] [1791101474.146755672] [student_info_publisher]: 46,10086,zzz
-[INFO] [1791101474.646734424] [student_info_publisher]: 47,10086,zzz
-[INFO] [1791101475.146798079] [student_info_publisher]: 48,10086,zzz
-[INFO] [1791101475.646784670] [student_info_publisher]: 49,10086,zzz
-[INFO] [1791101476.146726007] [student_info_publisher]: 50,10086,zzz
-[INFO] [1791101476.646757520] [student_info_publisher]: 51,10086,zzz
-[INFO] [1791101477.146797395] [student_info_publisher]: 52,10086,zzz
-[INFO] [1791101477.646799800] [student_info_publisher]: 53,10086,zzz
-[INFO] [1791101478.146845488] [student_info_publisher]: 54,10086,zzz
-[INFO] [1791101478.646784602] [student_info_publisher]: 55,10086,zzz
-[INFO] [1791101479.146845075] [student_info_publisher]: 56,10086,zzz
-[INFO] [1791101479.646932678] [student_info_publisher]: 57,10086,zzz
-[INFO] [1791101480.146838808] [student_info_publisher]: 58,10086,zzz
-[INFO] [1791101480.646840284] [student_info_publisher]: 59,10086,zzz
-[INFO] [1791101481.146808891] [student_info_publisher]: 60,10086,zzz
-[INFO] [1791101481.646800803] [student_info_publisher]: 61,10086,zzz
-[INFO] [1791101482.146952804] [student_info_publisher]: 62,10086,zzz
-[INFO] [1791101482.647060950] [student_info_publisher]: 63,10086,zzz
-[INFO] [1791101483.146885606] [student_info_publisher]: 64,10086,zzz
-[INFO] [1791101483.646770022] [student_info_publisher]: 65,10086,zzz
-[INFO] [1791101484.146957112] [student_info_publisher]: 66,10086,zzz
-[INFO] [1791101484.646882309] [student_info_publisher]: 67,10086,zzz
-[INFO] [1791101485.146864310] [student_info_publisher]: 68,10086,zzz
-[INFO] [1791101485.646775493] [student_info_publisher]: 69,10086,zzz
-[INFO] [1791101486.146722761] [student_info_publisher]: 70,10086,zzz
-[INFO] [1791101486.646783843] [student_info_publisher]: 71,10086,zzz
-[INFO] [1791101487.146834874] [student_info_publisher]: 72,10086,zzz
-[INFO] [1791101487.646799466] [student_info_publisher]: 73,10086,zzz
-[INFO] [1791101488.146970337] [student_info_publisher]: 74,10086,zzz
-[INFO] [1791101488.646881523] [student_info_publisher]: 75,10086,zzz
-[INFO] [1791101489.146934667] [student_info_publisher]: 76,10086,zzz
-[INFO] [1791101489.646887808] [student_info_publisher]: 77,10086,zzz
-[INFO] [1791101474.980059045] [student_info_subscriber]: subscribing
-[INFO] [1791101475.147198999] [student_info_subscriber]: zzz,10086
-[INFO] [1791101475.647118818] [student_info_subscriber]: zzz,10086
-[INFO] [1791101476.147162383] [student_info_subscriber]: zzz,10086
-[INFO] [1791101476.647078382] [student_info_subscriber]: zzz,10086
-[INFO] [1791101477.147143568] [student_info_subscriber]: zzz,10086
-[INFO] [1791101477.647166090] [student_info_subscriber]: zzz,10086
-[INFO] [1791101478.147143239] [student_info_subscriber]: zzz,10086
-[INFO] [1791101478.647254166] [student_info_subscriber]: zzz,10086
-[INFO] [1791101479.147158538] [student_info_subscriber]: zzz,10086
-[INFO] [1791101479.647413846] [student_info_subscriber]: zzz,10086
-[INFO] [1791101480.147245019] [student_info_subscriber]: zzz,10086
-[INFO] [1791101480.647254538] [student_info_subscriber]: zzz,10086
-[INFO] [1791101481.147171223] [student_info_subscriber]: zzz,10086
-[INFO] [1791101481.647185511] [student_info_subscriber]: zzz,10086
-[INFO] [1791101482.147357764] [student_info_subscriber]: zzz,10086
-[INFO] [1791101482.647627783] [student_info_subscriber]: zzz,10086
-[INFO] [1791101483.147302251] [student_info_subscriber]: zzz,10086
-[INFO] [1791101483.647054764] [student_info_subscriber]: zzz,10086
-[INFO] [1791101484.147143726] [student_info_subscriber]: zzz,10086
-[INFO] [1791101484.647305905] [student_info_subscriber]: zzz,10086
-[INFO] [1791101485.147303109] [student_info_subscriber]: zzz,10086
-[INFO] [1791101485.647122547] [student_info_subscriber]: zzz,10086
-[INFO] [1791101486.147049930] [student_info_subscriber]: zzz,10086
-[INFO] [1791101486.647104416] [student_info_subscriber]: zzz,10086
-[INFO] [1791101487.147182211] [student_info_subscriber]: zzz,10086
+[INFO] [1791177566.176105877] [student_info_publisher]: 每1s发布一次
+[INFO] [1791177567.172458148] [student_info_publisher]: 1. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177568.172076627] [student_info_publisher]: 2. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177569.172105831] [student_info_publisher]: 3. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177570.172040387] [student_info_publisher]: 4. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177571.172086836] [student_info_publisher]: 5. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177572.172169500] [student_info_publisher]: 6. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177573.172201390] [student_info_publisher]: 7. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177574.172672163] [student_info_publisher]: 8. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177575.172030143] [student_info_publisher]: 9. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177576.172311078] [student_info_publisher]: 10. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177577.172253514] [student_info_publisher]: 11. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177578.172161639] [student_info_publisher]: 12. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177579.172096439] [student_info_publisher]: 13. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177580.172244811] [student_info_publisher]: 14. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177581.172373808] [student_info_publisher]: 15. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177582.172106638] [student_info_publisher]: 16. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177583.172048429] [student_info_publisher]: 17. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177584.172083045] [student_info_publisher]: 18. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177585.172134631] [student_info_publisher]: 19. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177586.172175554] [student_info_publisher]: 20. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177587.172016458] [student_info_publisher]: 21. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177588.172105189] [student_info_publisher]: 22. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177589.172076061] [student_info_publisher]: 23. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177590.172155024] [student_info_publisher]: 24. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177591.172039535] [student_info_publisher]: 25. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177592.172000532] [student_info_publisher]: 26. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177593.172000689] [student_info_publisher]: 27. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177594.171916347] [student_info_publisher]: 28. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177595.172139382] [student_info_publisher]: 29. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177596.172051912] [student_info_publisher]: 30. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177597.172095431] [student_info_publisher]: 31. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177598.172094122] [student_info_publisher]: 32. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177599.172128750] [student_info_publisher]: 33. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177600.172092279] [student_info_publisher]: 34. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177601.172072257] [student_info_publisher]: 35. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177602.172016032] [student_info_publisher]: 36. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177603.172044397] [student_info_publisher]: 37. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177604.172004113] [student_info_publisher]: 38. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177605.172140473] [student_info_publisher]: 39. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177606.172101686] [student_info_publisher]: 40. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177607.172171105] [student_info_publisher]: 41. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177608.172084666] [student_info_publisher]: 42. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177609.172082143] [student_info_publisher]: 43. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177610.172108285] [student_info_publisher]: 44. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177611.172064606] [student_info_publisher]: 45. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177612.172077672] [student_info_publisher]: 46. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177613.172070643] [student_info_publisher]: 47. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177614.172086417] [student_info_publisher]: 48. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177615.172149998] [student_info_publisher]: 49. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177616.172144733] [student_info_publisher]: 50. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177617.172174272] [student_info_publisher]: 51. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177618.172166457] [student_info_publisher]: 52. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177619.172093057] [student_info_publisher]: 53. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177620.172122212] [student_info_publisher]: 54. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177621.172069827] [student_info_publisher]: 55. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177622.172135286] [student_info_publisher]: 56. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177623.172023345] [student_info_publisher]: 57. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177624.172060209] [student_info_publisher]: 58. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177625.172030982] [student_info_publisher]: 59. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177626.172108113] [student_info_publisher]: 60. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177627.172093922] [student_info_publisher]: 61. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177628.172030619] [student_info_publisher]: 62. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177629.171981819] [student_info_publisher]: 63. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177630.172045841] [student_info_publisher]: 64. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177631.172034299] [student_info_publisher]: 65. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177632.172091439] [student_info_publisher]: 66. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177633.172014065] [student_info_publisher]: 67. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177634.172053756] [student_info_publisher]: 68. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177635.172035789] [student_info_publisher]: 69. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177636.172029252] [student_info_publisher]: 70. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177637.172024196] [student_info_publisher]: 71. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177638.172000987] [student_info_publisher]: 72. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177639.172071892] [student_info_publisher]: 73. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177640.172079302] [student_info_publisher]: 74. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177641.172019228] [student_info_publisher]: 75. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177642.172077144] [student_info_publisher]: 76. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177643.172020848] [student_info_publisher]: 77. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177644.171822172] [student_info_publisher]: 78. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177645.172164059] [student_info_publisher]: 79. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177646.172083586] [student_info_publisher]: 80. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177647.172158141] [student_info_publisher]: 81. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177648.172148712] [student_info_publisher]: 82. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177649.172447455] [student_info_publisher]: 83. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177650.172027291] [student_info_publisher]: 84. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177651.172022025] [student_info_publisher]: 85. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177652.172152969] [student_info_publisher]: 86. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177653.172069954] [student_info_publisher]: 87. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177654.172025634] [student_info_publisher]: 88. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177655.172527748] [student_info_publisher]: 89. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177656.171954649] [student_info_publisher]: 90. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177657.171997360] [student_info_publisher]: 91. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177658.172085881] [student_info_publisher]: 92. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177659.172032371] [student_info_publisher]: 93. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177660.172101828] [student_info_publisher]: 94. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177661.171998517] [student_info_publisher]: 95. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177662.172052593] [student_info_publisher]: 96. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177663.172063193] [student_info_publisher]: 97. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177664.172144397] [student_info_publisher]: 98. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177665.172042435] [student_info_publisher]: 99. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177666.172124168] [student_info_publisher]: 100. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177667.172162835] [student_info_publisher]: 101. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177668.172472541] [student_info_publisher]: 102. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177669.172090781] [student_info_publisher]: 103. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177670.172047728] [student_info_publisher]: 104. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177671.172138071] [student_info_publisher]: 105. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177672.172024843] [student_info_publisher]: 106. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177673.172228223] [student_info_publisher]: 107. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177674.172056697] [student_info_publisher]: 108. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177675.172140104] [student_info_publisher]: 109. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177676.172217559] [student_info_publisher]: 110. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177677.172140455] [student_info_publisher]: 111. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177678.172144202] [student_info_publisher]: 112. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177679.172129966] [student_info_publisher]: 113. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177680.172098287] [student_info_publisher]: 114. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177681.172297134] [student_info_publisher]: 115. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177682.172066833] [student_info_publisher]: 116. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177683.172084804] [student_info_publisher]: 117. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177684.172073979] [student_info_publisher]: 118. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177685.172140279] [student_info_publisher]: 119. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177686.172069549] [student_info_publisher]: 120. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177687.172109958] [student_info_publisher]: 121. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177688.172095153] [student_info_publisher]: 122. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177689.172161731] [student_info_publisher]: 123. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177690.172118817] [student_info_publisher]: 124. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177691.172170327] [student_info_publisher]: 125. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177692.171968996] [student_info_publisher]: 126. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177693.172061338] [student_info_publisher]: 127. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177694.172129970] [student_info_publisher]: 128. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177695.172072826] [student_info_publisher]: 129. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177696.172456629] [student_info_publisher]: 130. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177697.172103893] [student_info_publisher]: 131. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177698.172290632] [student_info_publisher]: 132. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177699.172227274] [student_info_publisher]: 133. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177700.172252887] [student_info_publisher]: 134. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177701.172429236] [student_info_publisher]: 135. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177702.171994794] [student_info_publisher]: 136. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177703.171985848] [student_info_publisher]: 137. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177704.172024100] [student_info_publisher]: 138. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177705.172067672] [student_info_publisher]: 139. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177706.172205146] [student_info_publisher]: 140. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177707.172283008] [student_info_publisher]: 141. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177708.172047371] [student_info_publisher]: 142. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177709.172119436] [student_info_publisher]: 143. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177710.172075213] [student_info_publisher]: 144. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177711.172093326] [student_info_publisher]: 145. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177712.172039115] [student_info_publisher]: 146. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177713.172401113] [student_info_publisher]: 147. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177714.172046780] [student_info_publisher]: 148. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177715.172220769] [student_info_publisher]: 149. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177716.172156826] [student_info_publisher]: 150. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177717.172079944] [student_info_publisher]: 151. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177718.172078784] [student_info_publisher]: 152. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177719.171958876] [student_info_publisher]: 153. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177720.172106759] [student_info_publisher]: 154. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177721.172110130] [student_info_publisher]: 155. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177722.172259375] [student_info_publisher]: 156. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177723.172175990] [student_info_publisher]: 157. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177724.172102609] [student_info_publisher]: 158. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177725.172065912] [student_info_publisher]: 159. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177726.172239276] [student_info_publisher]: 160. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177727.172204492] [student_info_publisher]: 161. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177728.172131537] [student_info_publisher]: 162. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177729.172075137] [student_info_publisher]: 163. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177730.172104495] [student_info_publisher]: 164. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177731.172075066] [student_info_publisher]: 165. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177732.172065949] [student_info_publisher]: 166. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177733.172173274] [student_info_publisher]: 167. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177734.172239628] [student_info_publisher]: 168. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177735.172115973] [student_info_publisher]: 169. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177736.172112518] [student_info_publisher]: 170. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177737.172256667] [student_info_publisher]: 171. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177738.172227690] [student_info_publisher]: 172. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177739.172308879] [student_info_publisher]: 173. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177740.172052740] [student_info_publisher]: 174. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177741.172069768] [student_info_publisher]: 175. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177742.172230378] [student_info_publisher]: 176. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177743.172491365] [student_info_publisher]: 177. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177744.172221070] [student_info_publisher]: 178. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177745.172207625] [student_info_publisher]: 179. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177746.172157487] [student_info_publisher]: 180. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177747.172157961] [student_info_publisher]: 181. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177748.172302382] [student_info_publisher]: 182. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177749.172326524] [student_info_publisher]: 183. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177750.172176178] [student_info_publisher]: 184. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177751.172194260] [student_info_publisher]: 185. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177752.172327193] [student_info_publisher]: 186. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177753.172214359] [student_info_publisher]: 187. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177754.172183418] [student_info_publisher]: 188. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177755.172211545] [student_info_publisher]: 189. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177756.172202624] [student_info_publisher]: 190. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177757.172219211] [student_info_publisher]: 191. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177758.172335596] [student_info_publisher]: 192. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177759.172341224] [student_info_publisher]: 193. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177760.172437132] [student_info_publisher]: 194. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177761.172234543] [student_info_publisher]: 195. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177762.172192658] [student_info_publisher]: 196. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177763.172585136] [student_info_publisher]: 197. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177764.172456691] [student_info_publisher]: 198. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177765.172454596] [student_info_publisher]: 199. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177766.172186802] [student_info_publisher]: 200. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177767.172136535] [student_info_publisher]: 201. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177768.172190763] [student_info_publisher]: 202. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177769.171932244] [student_info_publisher]: 203. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177770.172219939] [student_info_publisher]: 204. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177771.172071337] [student_info_publisher]: 205. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177772.172212835] [student_info_publisher]: 206. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177773.172093123] [student_info_publisher]: 207. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177774.172115499] [student_info_publisher]: 208. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177775.172082308] [student_info_publisher]: 209. 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177721.438883861] [student_info_subscriber]: subscribing,waiting
+[INFO] [1791177722.172718712] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177723.172627798] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177724.172522323] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177725.172393232] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177726.172699474] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177727.172594920] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177728.172555061] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177729.172416548] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177730.172554692] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177731.172510926] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177732.172518319] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177733.172619886] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177734.172731882] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177735.172393049] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177736.172631487] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177737.172584270] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177738.172638122] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177739.172706509] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177740.172527141] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177741.172557082] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177742.172736690] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177743.173035686] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177744.172726779] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177745.172703160] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177746.172617486] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177747.172453356] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177748.172811550] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177749.172836370] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177750.172557736] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177751.172612905] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177752.172695284] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177753.172671660] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177754.172624629] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177755.172695036] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177756.172599173] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177757.172663109] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177758.172893047] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177759.172816713] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177760.172850835] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177761.172649913] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177762.172673715] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177763.172747773] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177764.172625615] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177765.172730898] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177766.172457703] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177767.173115347] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177768.172654426] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177769.172179801] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177770.172645399] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177771.172403644] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177772.172622436] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177773.172372455] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能
+[INFO] [1791177774.172423303] [student_info_subscriber]: 姓名:张岩霖,学号:2026112620,专业:人工智能

@@ -4,6 +4,7 @@ from student_info_interfaces.msg import StudentInfo
 class StudentInfoPublisher(Node):
     X="张岩霖"
     Y="2026112620"
+    Z="人工智能"
     def  __init__(self):
         super().__init__("student_info_publisher")
         self.publisher_=self.create_publisher(StudentInfo,"student_info",10)
@@ -16,9 +17,10 @@ class StudentInfoPublisher(Node):
         msg=StudentInfo()
         msg.student_id=self.Y
         msg.student_name=self.X
+        msg.student_major=self.Z
         self.publisher_.publish(msg)
         self.count+=1
-        self.get_logger().info(f'{self.count},{msg.student_id},{msg.student_name}')
+        self.get_logger().info(f'{self.count}. 姓名:{msg.student_name},学号:{msg.student_id},专业:{msg.student_major}')
 
 
 def main(args=None):
@@ -27,10 +29,11 @@ def main(args=None):
     try:
         rclpy.spin(node)
     except KeyboardInterrupt:
-        node.get_logger().info("ctrl+c,quit now")
+        pass
     finally:
-    	node.destroy_node()
-    	if rclpy.ok():
+        print("我是奶龙")
+        node.destroy_node()
+        if rclpy.ok():
             rclpy.shutdown()
 
 
